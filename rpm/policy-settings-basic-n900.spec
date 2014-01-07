@@ -21,7 +21,7 @@ Requires:   ohm >= 1.1.16
 Requires:   ohm-plugins-misc
 Requires:   ohm-plugin-resolver
 Requires:   ohm-plugin-ruleengine
-Requires:   ohm-plugin-videoep
+#Requires:   ohm-plugin-videoep
 Requires:   ohm-plugin-fmradio
 Requires:   ohm-plugin-dspep
 Requires:   ohm-plugins-dbus
